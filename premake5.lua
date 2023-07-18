@@ -1,4 +1,4 @@
-project "glfw"
+project "soil"
 	kind "StaticLib"
 	language "C"
 	staticruntime "off"
