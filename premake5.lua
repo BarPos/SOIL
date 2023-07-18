@@ -9,14 +9,14 @@ project "soil"
 
 	files
 	{
-		"src/image_DTX.h",
+		"src/image_DXT.h",
 		"src/image_helper.h",
 		"src/SOIL.h",
 		"src/stb_image_aug.h",
 		"src/stbi_DDS_aug.h",
 		"src/stbi_DDS_aug_c.h",
 
-    "src/image_DTX.c",
+    "src/image_DXT.c",
     "src/image_helper.c",
     "src/SOIL.c",
     "src/stb_image_aug.c",
